@@ -1,6 +1,6 @@
 #!/bin/bash
 
-timezone = "Australia/Melbourne"
+timezone="Australia/Melbourne"
 
 sudo apt update -y
 sudo apt -y full-upgrade
